@@ -1,0 +1,61 @@
+<!DOCTYPE = "html">
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Porcelanataria</title>
+</head>
+
+<section class="img-primaria">
+    <img src="https://img77.uenicdn.com/image/upload/v1532530825/service_images/shutterstock_765906277.jpg" alt="imagem de exemplo para a mostrar produtos da loja">
+</section>
+
+<body>
+    <header>
+        <div class="container">
+            <h1 class="logo">Porcelanataria</h1>
+            <nav>
+                <ul class="menu">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="produtos.html">Produtos</a></li>
+                    <li><a href="sobre.html">Sobre Nós</a></li>
+                    <li><a href="contatos.html">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+        <input class="nome" id="nomeUsuario" placeholder="Digite seu nome">
+
+    <section id="home" class="home-section">
+        <div class="container">
+            <h2>Bem-vindo à Porcelanataria</h2>
+            <p>Encontre os melhores porcelanatos para sua casa ou empresa.</p>
+            <a href="produtos.html" class="btn">Ver Produtos</a>
+            <p class="login" id="mensagem"></p>
+        </div>
+    </section>
+
+    
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Porcelanataria. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+    <script>
+
+        const campo=document.querySelector("#nomeUsuario");
+        const mensagen=document.querySelector("#mensagem");
+
+        campo.oninput=function(){
+            mensagem.innerHTML = "Olá " + campo.value + "!" + " Clique aqui para comprar seus produtos";
+        }
+
+    </script>
+
+</body>
+
