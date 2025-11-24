@@ -62,6 +62,8 @@ avaliação do projeto do Victor Holanda - Din Din Gourmet
 -páginas completas
 -contatos e formulários bem feitos
 -imagens intuitívas e que bem representam o site
+-bom uso de javascript e css
+-links para localização e especificação do horário de funcionamento
 
 
 6
