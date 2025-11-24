@@ -56,7 +56,13 @@ temos 4 pastas principais, que separam os arquivos html, os arquivos Javascript,
 4.1
 - o site funcionou em todos os navegadores testados (Opera, Chrome e Microsoft Edge)
 
-5 avaliação por pares (ADICIONAR AQUI!!!!!)
+5 avaliação por pares
+avaliação do projeto do Victor Holanda - Din Din Gourmet
+-fácil de navegar
+-páginas completas
+-contatos e formulários bem feitos
+-imagens intuitívas e que bem representam o site
+
 
 6
 -O projeto inicalmente possuía uma estrutura não tão organizada e menos limpa, com uso não tão eficiente do javascript e páginas incompletas (sobre nós e contatos)
@@ -66,4 +72,6 @@ temos 4 pastas principais, que separam os arquivos html, os arquivos Javascript,
 -(feedbacks recebidos ESCREVER AQUI !!!!!)
 
 
-Próximos passos e melhorias (ESCREVER AQUI !!!!!!!)
+Próximos passos e melhorias
+-adicionar mais produtos
+-adicionar mais feedback ao usuário com javascript
